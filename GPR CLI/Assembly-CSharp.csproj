@@ -56,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\1\Scipts\GPR11.cs" />
+    <Compile Include="Assets\1\Scipts\GPR12.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
