@@ -330,7 +330,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: beb6d0d3aa38ccf4985c583dd626975f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ex: 5
+  ex: 3
   renderer: {fileID: 2079446872}
 --- !u!65 &2079446871
 BoxCollider:
