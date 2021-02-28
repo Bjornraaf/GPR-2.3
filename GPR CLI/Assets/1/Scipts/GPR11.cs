@@ -16,13 +16,13 @@ public class GPR11 : MonoBehaviour
             
     }
     IEnumerator Fade() 
-{
+    {
             Debug.Log("Ik start nu de coroutine");
             yield return new WaitForSeconds(.5f);
             Debug.Log("Coroutine update");
             yield return new WaitForSeconds(.5f);
             Debug.Log("Coroutine einde");
             yield return new WaitForSeconds(.5f);
-}
+    }
 
 }
