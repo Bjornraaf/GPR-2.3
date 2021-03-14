@@ -22,7 +22,6 @@ public class GPR2_1_2 : MonoBehaviour
 
     private void Start()
     {
-
         _startScale = transform.localScale;
         _startPos = transform.position;
         _percent = 0;
